@@ -230,6 +230,21 @@
     },
     {
       "chainId": 101,
+      "address": "5AX3ZyDN1rpamEzHpLfsJ5t6TyNECKSwPRfnzVHVuRFj",
+      "symbol": "YUMZ",
+      "name": "Food tasting Social Token",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/yu-ming-chen/yumzToken/logo.JPG",
+      "tags": [
+        "social-token",
+        "yumz"
+      ],
+      "extensions": {
+        "website": "https://www.digitalassets.ag/UnderlyingDetails?AMD"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "3bjpzTTK49eP8m1bYxw6HYAFGtzyWjvEyGYcFS4gbRAx",
       "symbol": "AMZN",
       "name": "Amazon",
